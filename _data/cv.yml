@@ -38,6 +38,7 @@ cv:
 
       - institution: Rishi Valley School
         location: Andhra Pradesh, India
+        url: https://www.rishivalley.org
         area: 
         studyType: High School
         start_date: 2013
@@ -143,11 +144,17 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: English
+        summary: "Native Speaker"
+
+      - name: Telugu
         summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+      - name: Hindi
+        summary: "Elementary"
+
+      - name: French
+        summary: "Elementary"
 
     Interests:
       - name: Physics
