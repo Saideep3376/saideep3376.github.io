@@ -30,7 +30,7 @@ cv:
         studyType: Bachelor of Technology (B.Tech)
         start_date: 2022
         end_date: 2026
-        score: "GPA: 9.5/10.0"
+        score: GPA: 9.5/10.0
         courses: "Theory of Relativity"
         highlights:
           - Description 1.
