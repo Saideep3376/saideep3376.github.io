@@ -15,33 +15,33 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    #street: 2712 Broadway St
+    city: Hyderabad
+    region: Telangana
+    postalCode: 500035
+    countryCode: IN
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
+      - institution: Mahindra University
+        location: Hyderabad, India
+        url: https://www.mahindrauniversity.edu.in
+        area: Electronics and Computer Engineering
+        studyType: Bachelor of Technology (B.Tech)
+        start_date: 2022
+        end_date: 2026
+        score: "GPA: 9.5/10.0"
         courses: "Theory of Relativity"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Rishi Valley School
+        location: Andhra Pradesh, India
+        area: 
+        studyType: High School
+        start_date: 2013
+        end_date: 2022
         highlights:
           - Description 1.
           - Description 2.
